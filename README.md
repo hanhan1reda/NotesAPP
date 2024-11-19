@@ -1,32 +1,42 @@
 
+# SimpleNotesApp 📒  
 
-SimpleNotesApp 📒
+Welcome to **SimpleNotesApp**!  
+🌟 A minimal and intuitive note-taking application built using **Android Studio** and **Jetpack Compose**.  
+Designed to offer you a quick and easy way to jot down notes without the fuss!  
 
-Welcome to SimpleNotesApp! 
-🌟 A minimal and intuitive note-taking application built using Android Studio and Jetpack Compose.
-Designed to offer you a quick and easy way to jot down notes without the fuss!
+---
 
-Features ✨
+## ✨ Features  
 
-Add Notes: Capture your thoughts or tasks with a simple tap.
-Update Notes: Edit your notes anytime to keep them up to date.
-Delete Notes: Clean up and remove notes you no longer need.
-Favorite Notes: Mark important notes as favorites for easy access.
-Modern UI: Built with Jetpack Compose for a smooth, responsive user experience.
+- **📝 Add Notes:** Capture your thoughts or tasks with a simple tap.  
+- **✏️ Update Notes:** Edit your notes anytime to keep them up to date.  
+- **❌ Delete Notes:** Clean up and remove notes you no longer need.  
+- **⭐ Favorite Notes:** Mark important notes as favorites for easy access.  
+- **🎨 Modern UI:** Built with Jetpack Compose for a smooth, responsive user experience.  
 
-Screenshots 📱
+---
 
-![1](https://github.com/user-attachments/assets/6ea71eb8-161e-4cfe-a5dc-1b99df4b2556)  : ![NOTEAPP JETPACK COMPOSE (2)](https://github.com/user-attachments/assets/a9aa2329-cf8e-4089-9516-7e3acb2cc790)   
+## 📱 Screenshots  
 
+Take a look at the app in action!  
 
+<img src="https://github.com/user-attachments/assets/6ea71eb8-161e-4cfe-a5dc-1b99df4b2556" alt="Note App Screenshot 1" width="300"/>  
+<img src="https://github.com/user-attachments/assets/a9aa2329-cf8e-4089-9516-7e3acb2cc790" alt="Note App Screenshot 2" width="300"/>  
 
+---
 
-Tech Stack 🛠️
-Language: Kotlin
+## 🛠️ Tech Stack  
 
+- **Language:** Kotlin  
+- **Architecture:** MVVM (Model-View-ViewModel)  
+- **UI Toolkit:** Jetpack Compose  
 
-Architecture: MVVM (Model-View-ViewModel)
-UI Toolkit: Jetpack Compose
+---
+
+Thank you for checking out SimpleNotesApp! Feel free to contribute, suggest features, or report issues.  
+Happy note-taking! 📒✨
+
 Database: Room for local data storage
 
 Getting Started 🚀
